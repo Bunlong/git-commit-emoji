@@ -16,17 +16,6 @@ git commit ":beetle: Fix add missing field"
 
 ## Git Commit Emoji List
 
-<table>
-  <thead>
-    <tr>
-      <th>Commit Type</th>
-      <th>Emoji</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Deploy</td>
-      <td>:rocket:</td>
-    </tr>
-  <tbody>
-</table>
+|   Commit Type              | Emoji                                         |
+|:---------------------------|:----------------------------------------------|
+| Deploy                     | :rocket: `:rocket:`                           |
