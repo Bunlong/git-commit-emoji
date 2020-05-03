@@ -20,6 +20,7 @@ git commit ":beetle: Fix add missing field"
 |:---------------------------|:----------------------------------------------|
 | New Feature or Add Feature | :sparkles: `:sparkles:`                       |
 | Style                      | :art: `:art:`                                 |
+| Refactor                   | :recycle: `:recycle:`                         |
 | Deploy                     | :rocket: `:rocket:`                           |
 
 ## ⚖️ License
