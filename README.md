@@ -28,6 +28,10 @@ git commit ":beetle: Fix add missing field"
 | Work In Progress           | :construction: `:construction:`               |
 | Format/Structure related   | :art: `:art:`                                 |
 
+## 🌟 Contribution
+
+If you think any of the `Git Commit Type Emoji` can be improved or added the new one, please [submit any issues](https://github.com/Bunlong/git-commit-emoji/issues).
+
 ## ⚖️ License
 
 The MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
