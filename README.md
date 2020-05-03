@@ -26,7 +26,7 @@ git commit ":beetle: Fix add missing field"
   <tbody>
     <tr>
       <td>Deploy</td>
-      <td>:roket:</td>
+      <td>:rocket:</td>
     </tr>
   <tbody>
 </table>
