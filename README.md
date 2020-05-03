@@ -19,3 +19,7 @@ git commit ":beetle: Fix add missing field"
 |   Commit Type              | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
 | Deploy                     | :rocket: `:rocket:`                           |
+
+## ⚖️ License
+
+The MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
