@@ -1,6 +1,6 @@
 # Git Commit Emoji
 
-A new way to write Git commit messages is use Emoji to determine the type of Git commit.
+A new way to write Git commit messages is to use Emoji to determine the type of Git commit.
 
 The commit message with emojo should be structured as follows:
 
@@ -18,7 +18,7 @@ git commit ":beetle: Fix add missing field"
 
 |   Commit Type              | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
-| New Feature (Add)          | :rocket: `:rocket:`                           |
+| New Feature (Add)          | :rocket: `:sparkles:`                         |
 | Deploy                     | :rocket: `:rocket:`                           |
 
 ## ⚖️ License
