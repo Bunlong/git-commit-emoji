@@ -2,7 +2,7 @@
 
 A new way to write Git commit messages is to use Emoji to determine the type of Git commit.
 
-The commit message with emojo should be structured as follows:
+The commit message with Emoji should be structured as follows:
 
 ```
 git commit "<emoji> Commit message"
@@ -19,12 +19,13 @@ git commit ":beetle: Fix add missing field"
 |   Commit Type              | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
 | New feature                | :sparkles: `:sparkles:`                       |
-| Style                      | :art: `:art:`                                 |
+| Style                      | :lipstick: `:lipstick:`                       |
 | Refactor                   | :recycle: `:recycle:`                         |
 | Test                       | :rotating_light: `:rotating_light:`           |
 | Document                   | :book: `:book:`                               |
 | Deploy                     | :rocket: `:rocket:`                           |
 | Bug fix                    | :beetle: `:beetle:`                           |
+| Format/Structure related   | :art: `:art:`                                 |
 
 ## ⚖️ License
 
