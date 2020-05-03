@@ -1,6 +1,6 @@
 # Git Commit Emoji
 
-`Git Commit Emoji` is a standard of Emojis for using on Git commit messages.
+> `Git Commit Emoji` is a standard of Emojis for using on Git commit messages.
 
 A new way to improve or write git commit messages is using emoji to identify the type of a commit.
 
@@ -16,7 +16,7 @@ Usage:
 git commit ":beetle: Fix add missing field"
 ```
 
-### Standard Git Commit Type
+## Standard Git Commit Type
 
 |   Commit Type                         | Emoji                                           |
 |:--------------------------------------|:------------------------------------------------|
@@ -30,9 +30,9 @@ git commit ":beetle: Fix add missing field"
 | Work In Progress                      | :construction: `:construction:`                 |
 | Format/Structure related              | :art: `:art:`                                   |
 | Internationalization and localization | :globe_with_meridians: `:globe_with_meridians:` |
-| Performance                           | :globe_with_meridians: `:globe_with_meridians:` |
+| Performance                           | :racehorse: `:racehorse:`                       |
 
-😍 Inspiration
+## 😍 Inspiration
 
 Inspired by [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
 
