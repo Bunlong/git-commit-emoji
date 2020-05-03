@@ -18,7 +18,8 @@ git commit ":beetle: Fix add missing field"
 
 |   Commit Type              | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
-| New Feature (Add)          | :sparkles: `:sparkles:`                       |
+| New Feature or Add Feature | :sparkles: `:sparkles:`                       |
+| Style                      | :art: `:art:`                                 |
 | Deploy                     | :rocket: `:rocket:`                           |
 
 ## ⚖️ License
