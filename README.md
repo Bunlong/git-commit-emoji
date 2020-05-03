@@ -14,7 +14,7 @@ Example:
 git commit ":beetle: Fix add missing field"
 ```
 
-## Git Commit Emoji List
+## Git Commit Type
 
 |   Commit Type              | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
@@ -22,6 +22,7 @@ git commit ":beetle: Fix add missing field"
 | Style                      | :art: `:art:`                                 |
 | Refactor                   | :recycle: `:recycle:`                         |
 | Test                       | :rotating_light: `:rotating_light:`           |
+| Document                   | :book: `:book:`                               |
 | Deploy                     | :rocket: `:rocket:`                           |
 
 ## ⚖️ License
