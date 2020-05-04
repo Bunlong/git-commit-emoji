@@ -38,6 +38,7 @@ git commit ":beetle: Fix add missing field"
 | Move or renmame files or folders      | :truck: `:truck:`                                         |
 | Initial commit                        | :tada: `:tada:`                                           |
 | Version tag                           | :bookmark: `:bookmark:`                                   |
+| Add a dependency                      | :heavy_plus_sign: `:heavy_plus_sign:`                     |
 | Upgrade dependencies                  | :arrow_up: `:arrow_up:`                                   |
 | Downgrade dependencies                | :arrow_down: `:arrow_down:`                               |
 | Configure files                       | :wrench: `:wrench:`                                       |
