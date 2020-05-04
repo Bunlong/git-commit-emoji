@@ -10,7 +10,7 @@ The commit message with emoji should be structured as follows:
 git commit "<emoji> Commit message"
 ```
 
-Usage:
+Example:
 
 ```
 git commit ":beetle: Fix add missing field"
@@ -24,6 +24,7 @@ git commit ":beetle: Fix add missing field"
 | Style                                 | :lipstick: `:lipstick:`                         |
 | Refactor                              | :recycle: `:recycle:`                           |
 | Test                                  | :rotating_light: `:rotating_light:`             |
+| Make a test pass                      | :heavy_check_mark: `:heavy_check_mark:`         |
 | Document                              | :book: `:book:`                                 |
 | Deploy                                | :rocket: `:rocket:`                             |
 | Bug fix                               | :beetle: `:beetle:`                             |
