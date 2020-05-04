@@ -33,6 +33,7 @@ git commit ":beetle: Fix add missing field"
 | Performance                           | :racehorse: `:racehorse:`                       |
 | Remove code or files                  | :fire: `:fire:`                                 |
 | Security                              | :lock: `:lock:`                                 |
+| Move or renmame files or folders      | :truck: `:truck:`                                 |
 
 ## 😍 Inspiration
 
