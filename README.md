@@ -34,6 +34,7 @@ git commit ":beetle: Fix add missing field"
 | Remove code or files                  | :fire: `:fire:`                                 |
 | Security                              | :lock: `:lock:`                                 |
 | Move or renmame files or folders      | :truck: `:truck:`                               |
+| Initial commit                        | :tada: `:tada:`                                 |
 
 ## 😍 Inspiration
 
