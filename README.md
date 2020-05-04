@@ -18,28 +18,29 @@ git commit ":beetle: Fix add missing field"
 
 ## 📝 Standard Git Commit Type
 
-|   Commit Type                         | Emoji                                           |
-|:--------------------------------------|:------------------------------------------------|
-| New feature                           | :sparkles: `:sparkles:`                         |
-| Style                                 | :lipstick: `:lipstick:`                         |
-| Refactor                              | :recycle: `:recycle:`                           |
-| Test                                  | :rotating_light: `:rotating_light:`             |
-| Make a test pass                      | :heavy_check_mark: `:heavy_check_mark:`         |
-| Document                              | :book: `:book:`                                 |
-| Deploy                                | :rocket: `:rocket:`                             |
-| Bug fix                               | :beetle: `:beetle:`                             |
-| Work In Progress                      | :construction: `:construction:`                 |
-| Format/Structure related              | :art: `:art:`                                   |
-| Internationalization and localization | :globe_with_meridians: `:globe_with_meridians:` |
-| Performance                           | :racehorse: `:racehorse:`                       |
-| Remove code or files                  | :fire: `:fire:`                                 |
-| Security                              | :lock: `:lock:`                                 |
-| Move or renmame files or folders      | :truck: `:truck:`                               |
-| Initial commit                        | :tada: `:tada:`                                 |
-| Version tag                           | :bookmark: `:bookmark:`                         |
-| Upgrade dependencies                  | :arrow_up: `:arrow_up:`                         |
-| Downgrade dependencies                | :arrow_down: `:arrow_down:`                     |
-| Configure files                       | :wrench: `:wrench:`                             |
+|   Commit Type                         | Emoji                                                     |
+|:--------------------------------------|:----------------------------------------------------------|
+| New feature                           | :sparkles: `:sparkles:`                                   |
+| Style                                 | :lipstick: `:lipstick:`                                   |
+| Refactor                              | :recycle: `:recycle:`                                     |
+| Test                                  | :rotating_light: `:rotating_light:`                       |
+| Make a test pass                      | :heavy_check_mark: `:heavy_check_mark:`                   |
+| Document                              | :book: `:book:`                                           |
+| Deploy                                | :rocket: `:rocket:`                                       |
+| Bug fix                               | :beetle: `:beetle:`                                       |
+| Work In Progress                      | :construction: `:construction:`                           |
+| Merge branches                        | :twisted_rightwards_arrows: `:twisted_rightwards_arrows:` |
+| Format/Structure related              | :art: `:art:`                                             |
+| Internationalization and localization | :globe_with_meridians: `:globe_with_meridians:`           |
+| Performance                           | :racehorse: `:racehorse:`                                 |
+| Remove code or files                  | :fire: `:fire:`                                           |
+| Security                              | :lock: `:lock:`                                           |
+| Move or renmame files or folders      | :truck: `:truck:`                                         |
+| Initial commit                        | :tada: `:tada:`                                           |
+| Version tag                           | :bookmark: `:bookmark:`                                   |
+| Upgrade dependencies                  | :arrow_up: `:arrow_up:`                                   |
+| Downgrade dependencies                | :arrow_down: `:arrow_down:`                               |
+| Configure files                       | :wrench: `:wrench:`                                       |
 
 ## 😍 Inspiration
 
