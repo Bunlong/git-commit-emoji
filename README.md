@@ -38,7 +38,7 @@ git commit ":beetle: Fix add missing field"
 | Initial commit                        | :tada: `:tada:`                                 |
 | Version tag                           | :bookmark: `:bookmark:`                         |
 | Upgrade dependencies                  | :arrow_up: `:arrow_up:`                         |
-
+| Downgrade dependencies                | :arrow_down: `:arrow_down:`                     |
 ## 😍 Inspiration
 
 Inspired by [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
