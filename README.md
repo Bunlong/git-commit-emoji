@@ -43,6 +43,7 @@ git commit ":beetle: Fix add missing field"
 | Downgrade dependencies                | :arrow_down: `:arrow_down:`                               |
 | Configure files                       | :wrench: `:wrench:`                                       |
 | Revert changes                        | :rewind: `:rewind:`                                       |
+| Code review changes                   | :ok_hand: `:ok_hand:`                                     |
 
 ## 😍 Inspiration
 
