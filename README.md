@@ -44,6 +44,7 @@ git commit ":beetle: Fix add missing field"
 | Configure files                       | :wrench: `:wrench:`                                       |
 | Revert changes                        | :rewind: `:rewind:`                                       |
 | Code review changes                   | :ok_hand: `:ok_hand:`                                     |
+| Package.json                          | :package: `:package:`                                     |
 
 ## 😍 Inspiration
 
