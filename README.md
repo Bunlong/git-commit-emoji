@@ -45,6 +45,7 @@ git commit ":beetle: Fix add missing field"
 | Revert changes                        | :rewind: `:rewind:`                                       |
 | Code review changes                   | :ok_hand: `:ok_hand:`                                     |
 | Breaking changes                      | :boom: `:boom:`                                           |
+| Reverting changes                     | :rewind: `:rewind:`                                       |
 | Package.json                          | :package: `:package:`                                     |
 | Docker related                        | :green_heart: `:green_heart:`                             |
 | Continuous integration                | :whale: `:whale:`                                         |
