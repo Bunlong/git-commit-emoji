@@ -48,6 +48,7 @@ git commit ":beetle: Fix add missing field"
 | Package.json                          | :package: `:package:`                                     |
 | Docker related                        | :green_heart: `:green_heart:`                             |
 | Continuous integration                | :whale: `:whale:`                                         |
+| Mac related                           | :apple: `:apple:`                                         |
 
 ## 😍 Inspiration
 
