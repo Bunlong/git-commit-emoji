@@ -46,6 +46,7 @@ git commit ":beetle: Fix add missing field"
 | Code review changes                   | :ok_hand: `:ok_hand:`                                     |
 | Breaking changes                      | :boom: `:boom:`                                           |
 | Package.json                          | :package: `:package:`                                     |
+| Continuous integration                | :green_heart: `:green_heart:`                             |
 
 ## 😍 Inspiration
 
